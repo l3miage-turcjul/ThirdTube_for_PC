@@ -1,6 +1,9 @@
-# ThirdTube
+# ThirdTube for pc 
 
-A work-in-progress homebrew YouTube client for the 3DS  
+A work-in-progress homebrew YouTube client for old Windows Systems
+It is based on Thirdtube for 3DS
+
+This is the readme from Thirdtube:
 [GBAtemp Thread](https://gbatemp.net/threads/release-thirdtube-a-homebrew-youtube-client-for-the-new-3ds.591696/)  
 [Discord Server](https://discord.gg/CVcThBCQJM)
 
